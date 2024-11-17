@@ -1,5 +1,5 @@
 # C++ CMake GLFW Skeleton
-This is a simple and lightweight C++ template project that uses CMake and GLFW. It supports both local compilation and cross-compilation using the Emscripten toolchain. This template is ideal for creating C++ applications that need to run natively or as WebAssembly in a browser.
+This is a simple C++ skeleton project that uses CMake and GLFW. It supports both local compilation and cross-compilation using the Emscripten toolchain. This template is ideal for creating C++ applications that need to run natively or as WebAssembly in a browser.
 
 ## Features
 - ***Local Compilation***: Compile and run the project natively on the host.
